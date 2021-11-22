@@ -4,6 +4,7 @@ Cindy Amandani Noviantika
 18219110
 
 Cara menjalankan:
-1. Aktifkan docker dekstop
-2. run ```docker-compose up``` pada terminal
-3. Membuka ```localhost:8000``` pada device 
+1. Clone github atau download as zip
+2. Aktifkan docker dekstop
+3. run ```docker-compose up``` pada terminal
+4. Membuka ```localhost:8000``` pada device 
